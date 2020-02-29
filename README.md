@@ -1,5 +1,7 @@
 # Ukueli
-#Transmitter
+
+# Transmitter
+
 Detects when beam is broken and sends radio signal
-#Receiver
+# Receiver
 Strums servo when it receives a radio signal
